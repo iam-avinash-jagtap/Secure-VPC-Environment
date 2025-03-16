@@ -1,8 +1,6 @@
 # Secure VPC Architecture with Bastion Host and Private Subnet Isolation.
 Hello, in this project you are going to deploy secure VPC environment and host 1 application and make it secure, using public subnet, a private subnet, and a Network Address Translation (NAT) device in the public subnet.
 
-![infra](https://github.com/avinash-jagtap/Secure-VPC/blob/master/Images/Infrastructure.png)
-
 ## Learning Objective
 _Upon completion of this project we will be able to create, configure and test the following:_
 - Virtual Private Cloud (VPC)
